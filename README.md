@@ -1,3 +1,22 @@
+# Newsify
+
+## Information 
+In this webapp's github pages link will not work as gh-pages does not supports Routing so if you want to check the webapps fuctionality please clone this webapp and then run on your local server.
+
+## home page
+
+![1](https://user-images.githubusercontent.com/70438464/190991778-6168f1e3-5cc5-4154-9a4e-65b68c7790d6.png)
+
+##categories 
+![2](https://user-images.githubusercontent.com/70438464/190991820-87a4333d-c50f-4d9f-819d-0cdf833f42a6.png)
+![3](https://user-images.githubusercontent.com/70438464/190991828-30cd7ae2-3b46-4594-a365-357856052ef6.png)
+![4](https://user-images.githubusercontent.com/70438464/190991842-96ceb588-f601-4319-a6fe-aebcf1d3def5.png)
+![5](https://user-images.githubusercontent.com/70438464/190991856-26de1633-178e-4f12-9049-b24c727985a3.png)
+
+## about page
+![about](https://user-images.githubusercontent.com/70438464/190991875-0889b66c-a403-487a-92d0-5f6ec9257b3a.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
